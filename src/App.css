@@ -1,0 +1,60 @@
+.App {
+  text-align: center;
+  
+  
+}
+
+.appHeader{
+  text-align: center;
+  background-color: cadetblue;
+  padding: 40px;
+  margin-top: -10px;
+  font-size: 50px;
+}
+
+.Home{
+  text-align: center;
+  background-color: paleturquoise;
+  padding: 30px;
+  margin-top: -40px;
+  overflow: hidden;
+  
+}
+
+.homeRegister{
+  float: left;
+  display: block;
+ padding-right: 20px;
+  font-size: 25px;
+  text-align: center;
+  padding-left: 800px;
+}
+
+.homeLogin{
+  float: left;
+  display: block;
+ padding-left: 20px;
+  font-size: 20px;
+  text-align: center;
+  padding-right: 800px;
+  font-size: 25px;
+}
+
+.Register{
+  text-align: center;
+  background-color:aliceblue
+}
+#registerHead{
+  background-color:aliceblue
+}
+
+
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
